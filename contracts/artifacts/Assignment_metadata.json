@@ -110,7 +110,7 @@
 					}
 				}
 			},
-			"title": "Storage",
+			"title": "Assignment",
 			"version": 1
 		},
 		"userdoc": {
@@ -121,7 +121,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/1_Storage.sol": "Assignment"
+			"contracts/Assignment.sol": "Assignment"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -135,12 +135,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/1_Storage.sol": {
-			"keccak256": "0xff2270e81448ada894f77f013e929601ec4b2bbbb0662566eac8f6426d3a189f",
+		"contracts/Assignment.sol": {
+			"keccak256": "0x85fdec42d4a4c5bb0d7e0f28de3e2f84e04217dbb81539355c8456634dbd05ba",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://462c16dfffd7443296b82e1d47cf67319016d99ad24dc1adee8c0a5f46fbb718",
-				"dweb:/ipfs/QmTgyAocC8VXXLHsAcSZUy22AX9WdW9Zej3f8paCUZ2qKf"
+				"bzz-raw://7519c6e9a5ef2983a4df16d796ac7a91d8aac9244202703672a1990469cf7667",
+				"dweb:/ipfs/QmaJKUCzGVyVseiHZaATatJo2Zu2tKvkvVkpvLph8AcQRd"
 			]
 		}
 	},
